@@ -62,7 +62,7 @@
         "deansList": true,
         "courses": [
           {
-            "abbreviation": "CS 200",
+            "abbreviation": "COMP SCI 200",
             "name": "Programming I",
             "credits": 3.0
           },
