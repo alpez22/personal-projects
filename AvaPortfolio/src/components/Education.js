@@ -27,8 +27,8 @@ const Education = () => {
                   {education.section.title} <div className="line-mf"></div>
                 </h3>
                 <p className="subtitle-a">{education.section.description}</p>
-                <p className="subtitle-b">Expected Graduation Date: May 2025.</p>
-                <p className="subtitle-c">Current GPA: 3.6.</p>
+                <p className="subtitle-a">Expected Graduation Date: May 2025.</p>
+                <p className="subtitle-a">Current GPA: 3.6.</p>
               </div>
             </div>
           </div>
