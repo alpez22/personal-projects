@@ -1,0 +1,469 @@
+{
+  "general": {
+    "first_name": "Ava",
+    "middle_name": "Lisette",
+    "last_name": "Pezza",
+    "navbar_social_links": {
+      "github": "https://github.com/alpez22",
+      "linkedin": "https://www.linkedin.com/in/ava-pezza-32b071225/",
+      "email": "apezza@wisc.edu"
+    }
+  },
+  "repo_stats": {
+    "section": {
+      "enable_section": true
+    }
+  },
+  "about_me": {
+    "section": {
+      "enable_section": true,
+      "title": "~/About",
+      "navbar_name": "/About",
+      "description": "Brief information about me and some of my interests."
+    },
+    "headShotUrl": "../assets/portrait.png",
+    "bio": [
+      "I'm a hardworking and enthusiastic 3rd year college student working towards a B.S. in Computer Science, a B.S. in Philosophy, and a minor in Mathematics at the University of Wisconsin-Madison with progressive experience in writing code, designing solutions, and software troubleshooting. I'm seeking a challenging role as a Software Developer Intern or a Frontend Developer Intern. Adept at working effectively in independent and fast-paced settings that demand advanced problem solving and analytical skills.",
+      "I was a Software Development Intern the past two summers after my 1st and 2nd year and I have a job on campus at the UW-Madison College of Engineering Makerspace. In addition, I've had experience working with a postdoctorial researcher through UW-Madison with computational/mathematical research and I've worked on several personal, in class and out of class programming projects."
+    ],
+    "skills_caption": "Some technologies I've worked with:",
+    "skills": [
+      "Java",
+      "C#",
+      "C",
+      "React",
+      "React Native",
+      "HTML & CSS & JS",
+      "Linux OS & Git",
+      "Microsoft Azure",
+      "MySQL",
+      "Laser Cutting",
+      "3D Printing",
+      "Virtual Reality"
+    ]
+  },
+  "academics": {
+    "section": {
+      "enable_section": true,
+      "title": "~/Education",
+      "navbar_name": "/Academics",
+      "description": "Courses that I have completed or am on track to complete. Current GPA: 3.6"
+    },
+    "general": {
+      "school": "University of Wisconsin-Madison",
+      "degree": "Bachelor of Science in Computer Science",
+      "start_year": 2021,
+      "end_year": 2025
+    },
+    "years": [
+      {
+        "year": 2021,
+        "semester": "Fall",
+        "deansList": true,
+        "courses": [
+          {
+            "abbreviation": "CS 200",
+            "name": "Programming I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MATH 222",
+            "name": "Calculus&Analytic Geometry 2",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "INTER-LS 250",
+            "name": "Undergrad Research Experience",
+            "credits": 2.0
+          },
+          {
+            "abbreviation": "PHILOS 101",
+            "name": "Introduction to Philosophy",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "ENGL 178",
+            "name": "Human Memory & Big Data",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "semester": "Spring",
+        "deansList": false,
+        "courses": [
+          {
+            "abbreviation": "COMP SCI 252",
+            "name": "Intro to Computer Engineering",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "COMP SCI 300",
+            "name": "Programming II",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MATH 234",
+            "name": "Calculus&Functns of Variables 3",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "INTER-LS 250",
+            "name": "Undergrad Research Experience",
+            "credits": 2.0
+          },
+          {
+            "abbreviation": "ASTRON 103",
+            "name": "The Evolving Universe",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "semester": "Summer",
+        "deansList": false,
+        "courses": [
+          {
+            "abbreviation": "CLASSICS 322",
+            "name": "The Romans",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "semester": "Fall",
+        "deansList": false,
+        "courses": [
+          {
+            "abbreviation": "COMP SCI 400",
+            "name": "Programming III",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MATH 341",
+            "name": "Linear Algebra",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "GEOG 305",
+            "name": "Introduction to the City",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "ANTHRO 105",
+            "name": "Principles - Biological Anthro",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "semester": "Spring",
+        "deansList": false,
+        "courses": [
+          {
+            "abbreviation": "COMP SCI 240",
+            "name": "Intro to Discrete Mathematics",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "COMP SCI 354",
+            "name": "Machine Organizatn&Progrmng",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MATH 319",
+            "name": "Tech-Ordinary Diff Equation",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "PHILOS 211",
+            "name": "Elementary Logic",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "GENETICS 133",
+            "name": "Genetics in the News",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "semester": "Fall",
+        "deansList": true,
+        "courses": [
+          {
+            "abbreviation": "COMP SCI 577",
+            "name": "Introduction to Algorithms",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "COMP SCI 571",
+            "name": "Building User Interfaces",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MATH 309",
+            "name": "Intro to Prob & Math Stat I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "PHILOS 241",
+            "name": "Introductory Ethics",
+            "credits": 4.0
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "semester": "Spring",
+        "deansList": false,
+        "courses": [
+          {
+            "abbreviation": "COMP SCI 537",
+            "name": "Intro to Operating Systems",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "COMP SCI 525",
+            "name": "Linear Optimization",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "PHILOS 432",
+            "name": "History-Modern Philosophy",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "PHILOS 551",
+            "name": "Philosophy of Mind",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "COMP SCI 368",
+            "name": "Learn C++ Programming Language",
+            "credits": 1.0
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "section": {
+      "enable_section": true,
+      "title": "~/Experience",
+      "navbar_name": "/Experience",
+      "description": "Professional Experience that I have through internships, jobs, and organizations."
+    },
+    "experience_items": [
+      {
+        "organization": "Milliman - 2023",
+        "title": "Software Development Intern",
+        "start_date": "May 2023",
+        "end_date": "August 2023",
+        "description": [
+          "Worked on 3 large projects for the entirety of the summer that involved building out entire console applications and web job applications using C, Azure resources, Postman, and AWS.",
+          "Added functionality that allowed clients to get an identity specific medical claims file, upload this file to a blob storage location using a time limited URL, and a completely parsed and processed medical claims file will be returned for clients to download.",
+          "Automated an entire process by creating a console app from scratch that gets most recent monthly/quarterly drug pricing files from prescription company websites to then update the files on record and the functionalities connected to these files.",
+          "Created a web job app that replaced the outsourcing of a third-party company, who took half of the amount earned from every million-dollar contract, that handled the download, parse, and upload of enormous hospital files to an AWS bucket."
+        ]
+      },
+      {
+        "organization": "Milliman - 2022",
+        "title": "Software Development Intern",
+        "start_date": "June 2022",
+        "end_date": "August 2022",
+        "description": [
+          "Developed a wide variety of projects involving software solutions that assist insurance carriers, providers, brokers, employers, and government entities as well as manipulated data to withstand the growth of healthcare analytics.",
+          "Collaborated to implement a new database structure aimed to improve time efficiency and assisted with documentation and research to implement innovative solutions and anticipate market demands. ",
+          "Worked on ~3 projects a week from start to finish using SQL, Java, Java Script, C, ETL processes, and/or Azure software.",
+          "Conducted testing on several new applications and debugged software developed by myself or other team members"
+        ]
+      },
+      {
+        "organization": "UW-Madison Makerspace",
+        "title": "Student Technician",
+        "start_date": "February 2022",
+        "end_date": "Present",
+        "description": [
+          "Assists students, staff, and researchers with their personal and academic based projects with the use of 3D Printers, Laser Cutters, Solders, Mills, Microcontrollers, Circuit Boards, and several other technologies.",
+          "Coordinating, teaching, and presenting instructional workshops to further students’ abilities in the above technologies.",
+          "Developing a web application project for the Makerspace that will present who is on shift to the Managers to optimize user-assistance.",
+          "Read more about my involvment in this project in the Projects section below..."
+        ]
+      },
+      {
+        "organization": "SWE Boeing Tech Team",
+        "title": "Software Engineering/Electrical Engineering Team Lead",
+        "start_date": "November 2023",
+        "end_date": "Present",
+        "description": [
+          "Leading the Software Engineering/ECE Society of Women Engineer's Boeing Team for this year’s project through PepsiCo.",
+          "Developing the ground work and the design for the Software Engineering Team.",
+          "Creating and teaching workshops for the team to learn the programming language and other software tasks that are needed to develop the project.",
+          "Presenting our project as a member of the panel at our end of the year competition.",
+          "Read more about my involvment in this project in the Projects section below..."
+        ]
+      },
+      {
+        "organization": "UW-Madison Research",
+        "title": "Undergraduate Research Scholar",
+        "start_date": "September 2021",
+        "end_date": "May 2022",
+        "description": [
+          "Worked alongside a UW-Madison postdoctoral researcher where I designed algorithms through MATLAB to simulate large-scale statistical mechanics systems and I presented these findings at the Spring Undergraduate Symposium",
+          "Read more about my involvment in this project and the video of my presentation at the 2022 Spring Undergraduate Symposium in the Projects section below..."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "section": {
+      "enable_section": true,
+      "title": "~/Projects",
+      "navbar_name": "/Projects",
+      "description": "Some of my most recent or past favorite programming projects."
+    },
+    "project_items": [
+      {
+        "project_name": "Makerspace Deputy Project",
+        "description": "Developing a project that uses react to create a single-page application that connects an employee scheduling app, Deputy, to display the credentials/chair positions of who is on shift to the managers.",
+        "resources_used": ["React", "Deputy API", "Linux OS & Git"],
+        "course_project": false,
+        "start_date": "Oct 2023",
+        "end_date": "Present",
+        "links": [
+          {
+            "href": "https://github.com/alpez22/out-of-class-projects/tree/main/Makerspace/deputy-app",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      },
+      {
+        "project_name": "SWE Boeing Tech Team",
+        "description": "Developing a product to track food waste which will have a warning system, with sensors and Arduinos, and a canister status app, where I will teach the team React Native to develop the UI from scratch.",
+        "resources_used": ["React", "Google Sheets API", "UX Principles of Design","Linux OS & Git"],
+        "course_project": false,
+        "start_date": "November 2023",
+        "end_date": "Present",
+        "links": [
+          {
+            "href": "https://github.com/alpez22/SWE_Boeing_UI_23_24",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      },
+      {
+        "project_name": "Building User Interfaces' Course Project 1",
+        "description": "This project was served as a cumulative assessment of my knowledge and understanding of React. I developed a web application that allows badgers to chat with other badgers via different chatrooms through a server shared by every student in CS571.",
+        "resources_used": ["React", "Multi-Page App", "UX Principles of Design", "Linux OS & Git"],
+        "course_project": true,
+        "start_date": "Fall 2023 semester",
+        "links": [
+          {
+            "href": "https://youtu.be/dAMdpuFFffY",
+            "icon": "FiExternalLink",
+            "data_tooltip": "Video Demonstration"
+          },
+          {
+            "href": "https://github.com/alpez22/inclass-projects/tree/main/CS571/hw6-alpez22",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      },
+      {
+        "project_name": "Building User Interfaces' Course Project 2",
+        "description": "This project was served as a cumulative assessment of my knowledge and understanding of React Native. This was a re-implementation of the BadgerChat project I presented above, but now as a mobile application.",
+        "resources_used": ["React Native", "Multi-Page App", "UX Principles of Design", "Linux OS & Git"],
+        "course_project": true,
+        "start_date": "Fall 2023 semester",
+        "links": [
+          {
+            "href": "https://youtu.be/wLxZvSIRsOU",
+            "icon": "FiExternalLink",
+            "data_tooltip": "Video Demonstration"
+          },
+          {
+            "href": "https://github.com/alpez22/inclass-projects/tree/main/CS571/hw9-alpez22",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      },
+      {
+        "project_name": "Intro to Operating Systems Course Project 1",
+        "description": "This program MADCounter.c is a command-line text tool which gethers statistics about characters, words, and file lines from an input file and either prints those statistics to the command line or to an output file. A batch file containing a series of statistics requests is allowed as well to get multiple analysis'.",
+        "resources_used": ["C", "Linux OS & Git"],
+        "course_project": true,
+        "start_date": "Spring 2024 semester",
+        "links": [
+          {
+            "href": "https://github.com/alpez22/inclass-projects/tree/main/CS537/P1",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      },
+      {
+        "project_name": "Programming III Course Project 1",
+        "description": "This program is a Red-Black Tree implementation with a Node inner class for representing the nodes of the tree and contains a JUnit Red-Black Tree test is meant to make sure that the RBT property violations are followed when inserting a new node into a tree",
+        "resources_used": ["Java", "JUnit Testing", "Linux OS & Git"],
+        "course_project": true,
+        "start_date": "Fall 2022 semester",
+        "links": [
+          {
+            "href": "https://github.com/alpez22/inclass-projects/tree/main/CS400/RedBlackTree%20Project",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      },
+      {
+        "project_name": "Computational/Mathematical Undergraduate Research Project",
+        "description": "The purpose of our study is to understand large statistical mechanics systems by performing careful simulations in Matlab. One such system is last-passage percolation, a model of disordered geometry which depends on a large number of random variables. Our goal is to understand both the asymptotics of this model as the system size tends to infinity, and to what degree these asymptotics depend on the distribution of the random variables. In order to reduce uncertainty, particular attention is paid to computational efficiency and a large number of trials.  On the basis of our simulations, we are led to conjectures for potentially rigorous mathematical theorems. Overall, having insight into this theory facilitates the understanding of many other physical systems.",
+        "resources_used": ["MatLab", "Data Structures", "Mathematics"],
+        "course_project": false,
+        "start_date": "Sept 2021",
+        "end_date": "May 2022",
+        "links": [
+          {
+            "href": "https://youtu.be/oRxCe2DoLJg",
+            "icon": "FiExternalLink",
+            "data_tooltip": "My Video Presentation @ Symposium"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "line_one": "Built & designed by",
+    "links": [
+      {
+        "href": "mailto:apezza@wisc.edu",
+        "icon": "MdEmail",
+        "data_tooltip": "Email"
+      },
+      {
+        "href": "https://github.com/alpez22",
+        "icon": "FaGithub",
+        "data_tooltip": "Visit GitHub Repo"
+      },
+      {
+        "href": "https://www.linkedin.com/in/ava-pezza-32b071225/",
+        "icon": "FaLinkedin",
+        "data_tooltip": "Visit Linked In"
+      }
+    ]
+  },
+  "error_page": {
+    "title": "Error 404",
+    "description": "The page you are looking for does not exist. Chose one of the following links to continue."
+  }
+}

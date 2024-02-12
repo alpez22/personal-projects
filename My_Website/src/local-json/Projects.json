@@ -1,0 +1,82 @@
+{
+    "Projects":[
+        {
+            "id": "100",
+            "name": "Makerspace",
+            "topic": "Makerspace React Project: ",
+            "location": "University of Wisconsin-Madison College of Engineering",
+            "date": "Feb 2022 - Present",
+            "positionName": "Student Technician Job Description: ",
+            "aboutJob": [
+                "Assists students, staff, and researchers with their personal and academic based projects with the use of 3D Printers, Laser Cutters, Solders, Mills, Microcontrollers, Circuit Boards, and several other technologies.",
+                "Coordinating, teaching, and presenting instructional workshops to further students’ abilities in the above technologies."
+            ],
+            "project":[
+                "Developing a project that uses react to create a single-page application that connects an employee scheduling app, Deputy, to display the credentials/chair positions of who is on shift to the managers."
+            ]
+        },
+        {
+            "id": "101",
+            "name": "Undergraduate Research Scholar",
+            "topic": "Computational/Mathematical Research Project",
+            "description": "Research Position Description: ",
+            "location": "University of Wisconsin-Madison",
+            "date": "Sept 2021 - May 2022",
+            "positionName": "Undergraduate Research Scholar",
+            "project":[
+                "Worked alongside a UW-Madison postdoctoral researcher where I designed algorithms through MATLAB to simulate large-scale statistical mechanics systems and I presented these findings at the Spring Undergraduate Symposium"
+            ],
+            "abstract":[
+                "The purpose of our study is to understand large statistical mechanics systems by performing careful simulations in Matlab. One such system is last-passage percolation, a model of disordered geometry which depends on a large number of random variables. Our goal is to understand both the asymptotics of this model as the system size tends to infinity, and to what degree these asymptotics depend on the distribution of the random variables. In order to reduce uncertainty, particular attention is paid to computational efficiency and a large number of trials.  On the basis of our simulations, we are led to conjectures for potentially rigorous mathematical theorems. Overall, having insight into this theory facilitates the understanding of many other physical systems."
+            ],
+            "forVideo":[
+                "The video below is my presentation at the Undergraduate Symposium where I presented my findings to professionals, researchers in this field, fellow undergraduate researchers, family, and friends: "
+            ]
+        },
+        {
+            "id": "102",
+            "name": "SWE Boeing Team",
+            "topic": "SWE Boeing Project: ",
+            "location": "University of Wisconsin-Madison College of Engineering",
+            "date": "Nov 2023 - Present",
+            "positionName": "Software Engineering/Electrical Engineering Team Lead Description:",
+            "aboutJob": [
+                "Leading the Software Engineering/ECE Society of Women Engineer's Boeing Team for this year’s project through PepsiCo.",
+                "Developing the ground work and the design for the Software Engineering Team.",
+                "Creating and teaching workshops for the team to learn the programming language and other software tasks that are needed to develop the project."
+            ],
+            "project":[
+                "Developing a product to track food waste which will have a warning system, with sensors and Arduinos, and a canister status app, where I will teach the team React Native to develop the UI from scratch."
+            ]
+        },
+        {
+            "id": "103",
+            "name": "Building User Interfaces' Course Project 1",
+            "date": "Fall 2023 Project",
+            "project":[
+                "This project was served as a cumulative assessment of my knowledge and understanding of React. I developed a web application that allows badgers to chat with other badgers via different chatrooms through a server shared by every student in CS571."
+            ],
+            "forVideo": [
+                "The video below demonstrates the features and fuctionality of the website I built."
+            ]
+        },
+        {
+            "id": "104",
+            "name": "Building User Interfaces' Course Project 2",
+            "date": "Fall 2023 Project",
+            "project":[
+                "This project was served as a cumulative assessment of my knowledge and understanding of React Native. This was a re-implementation of the BadgerChat project I presented above, but now as a mobile application."
+            ],
+            "forVideo": [
+                "The video below demonstrates the features and fuctionality of the mobile app I built."
+            ]
+        },
+        {
+            "id": "105",
+            "name": "My Github Website",
+            "project":[
+                "The link below will direct you to the repository that contains a few in-class projects that I've written entirely by myself."
+            ]
+        }
+    ]
+}
