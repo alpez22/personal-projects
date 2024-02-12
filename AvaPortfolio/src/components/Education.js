@@ -27,12 +27,6 @@ const Education = () => {
                   {education.section.title} <div className="line-mf"></div>
                 </h3>
                 <p className="subtitle-a">{education.section.description}</p>
-                <div className="graduation-details">
-                  <p className="subtitle-a">Expected Graduation Date: May 2025</p>
-                </div>
-                <div className="gpa-details">
-                  <p className="subtitle-a">Current GPA: 3.6</p>
-                </div>
               </div>
             </div>
           </div>

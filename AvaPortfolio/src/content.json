@@ -23,7 +23,7 @@
     },
     "headShotUrl": "../assets/portrait.png",
     "bio": [
-      "I'm a hardworking and enthusiastic 3rd year college student working towards a B.S. in Computer Science, a B.S. in Philosophy, and a minor in Mathematics at the University of Wisconsin-Madison with progressive experience in writing code, designing solutions, and software troubleshooting. I'm seeking a challenging role as a Software Developer Intern or a Frontend Developer Intern. Adept at working effectively in independent and fast-paced settings that demand advanced problem solving and analytical skills.",
+      "I'm a hardworking and enthusiastic 3rd year college student working towards a B.S. in Computer Science, a B.S. in Philosophy, and a minor in Mathematics at the University of Wisconsin-Madison with progressive experience in writing code, designing solutions, and software troubleshooting. I'm seeking a challenging role as a Software Developer Intern or a Frontend Developer Intern. Adept at working effectively in independent and fast-paced settings that demand advanced problem solving and analytical skills. I am expected to graduate May 2025.",
       "I was a Software Development Intern the past two summers after my 1st and 2nd year and I have a job on campus at the UW-Madison College of Engineering Makerspace. In addition, I've had experience working with a postdoctorial researcher through UW-Madison with computational/mathematical research and I've worked on several personal, in class and out of class programming projects."
     ],
     "skills_caption": "Some technologies I've worked with:",
@@ -47,7 +47,7 @@
       "enable_section": true,
       "title": "~/Education",
       "navbar_name": "/Academics",
-      "description": "Courses that I have completed or am on track to complete."
+      "description": "Courses that I have completed or am on track to complete. Current GPA: 3.6"
     },
     "general": {
       "school": "University of Wisconsin-Madison",
