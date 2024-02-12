@@ -30,7 +30,9 @@ const Education = () => {
                 <div className="graduation-details">
                   <p className="subtitle-a">Expected Graduation Date: May 2025.</p>
                 </div>
-                <p className="subtitle-a">Current GPA: 3.6.</p>
+                <div className="gpa-details">
+                  <p className="subtitle-a">Current GPA: 3.6.</p>
+                </div>
               </div>
             </div>
           </div>
